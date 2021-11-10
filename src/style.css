@@ -30,7 +30,7 @@ header {
 
 .logo {
     border: 2px solid var(--font-color);
-    padding: 5px;
+    padding: 8px;
     margin: 0 0 0 1.5rem;
     font-weight: 800;
     text-transform: uppercase;
@@ -91,14 +91,81 @@ main {
     font-size: 24px;
 }
 
-.items:last-child { 
-    
+.read-more {
+    text-align: start;
+    display: flex;
+    align-items: center;
+    color: var(--font-color);
+    font-size: 20px;
+    font-weight: 600;
 }
+
+.read-more i {
+    padding-left: 10px;
+    text-align: center;
+}
+/* .items:last-child { 
+    
+} */
 
 .items:last-child img{
     width: 100%;
 }
 
-.avatar {
-    display: none;
+/* card */
+.card-contaner {
+    margin-left:auto;
+    margin-right: 2rem;
+    margin-top: -14%;
+    display: block;
+    position: relative;
+    width: 60%;
+    background-color: var(--bg-color) ;
+    box-shadow: 2px 2px 5px  #044256fc;
+}
+
+.items:last-child .avtar-item img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.items:last-child .card-contaner .avatar {
+    display: flex; 
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.card-contaner .avatar .avtar-item{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card-contaner .avatar .about {
+    font-size: 22px;
+    font-weight: 600; 
+}
+
+.card-contaner .avatar .avtar-item .avatar-text {
+    padding: 10px;
+}
+/* Footer section */
+footer {
+    margin-top: 20px; 
+    /* margin-bottom: 80px;  */
+    display: flex;
+    align-items: flex-end;
+    justify-content :center;
+}
+
+footer p a {
+    color: #a5d1e1;
+    
+}
+
+footer p a:hover {
+    text-decoration: none;
 }
