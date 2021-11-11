@@ -58,6 +58,7 @@ li {
 ul .active, li:hover {
     border-bottom: 2px solid var(--font-color);
     transition: ease-in-out; 
+    cursor: pointer;
 }
 
 .mobile-nav, .mobile-links {
