@@ -5,10 +5,10 @@
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
-<!-- 
+
 <div align="center">
   <h3>
-    <a href=" ">
+    <a href="https://jyotip101.github.io/interior-consultant/">
       Demo
     </a>
     <span> | </span>
@@ -21,8 +21,6 @@
     </a>
   </h3>
 </div>
- 
- -->
 
 <!-- TABLE OF CONTENTS -->
 
@@ -31,21 +29,23 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [Contact](#contact)
-<!-- - [Acknowledgements](#acknowledgements) -->
+- [Contact](#contact) 
 
 <!-- OVERVIEW -->
 
 ## Overview
  
+ ![Screenshot (22)](https://user-images.githubusercontent.com/66724598/141316221-419bf989-7d9d-4987-9f43-73178717bec1.png)
+
+![interior-consultant](https://user-images.githubusercontent.com/66724598/141316109-66ccd446-efc1-4288-9d5a-d4c859c632f1.gif)  ![interior-consultant-mubile](https://user-images.githubusercontent.com/66724598/141316122-8ce39061-1700-4d14-afe2-1ba2f68f68e5.gif)
+
   ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]
-- [CSS]
-- [font use] (https://fonts.googleapis.com/css2?family=Londrina+Outline&family=Montserrat:wght@100&display=swap)
-<!-- - [Tailwind](https://tailwindcss.com/) --> 
+- HTML
+- CSS
+- [Google font](https://fonts.googleapis.com/css2?family=Londrina+Outline&family=Montserrat:wght@100&display=swap) 
 
 
 ## Features
@@ -54,17 +54,9 @@
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
-
-<!-- ## Acknowledgements -->
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-<!-- - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked) -->
-
+ 
 ## Contact
 
-<!-- - Website [your-website.com](https://{your-web-site-link}) -->
+- Website [jyotip](https://jyotip.netlify.app/)
 - GitHub [@jyotip101](https://github.com/jyotip101/)
 <!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
