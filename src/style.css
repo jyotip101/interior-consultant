@@ -169,3 +169,69 @@ footer p a {
 footer p a:hover {
     text-decoration: none;
 }
+
+/* medea query */
+@media screen and (max-width: 1115px) {
+
+    .items:nth-child(1) h1 {
+        font-size: 200%;
+    }
+
+    .desc {
+        font-size: 100%;
+    }
+
+    .read-more {
+        font-size: 100%;
+    }
+
+    .avatar .avatar-text h3, .avatar .avatar-text p,
+    .avatar .about{
+        font-size: 100% !important;
+    }
+}
+
+@media screen and (max-width: 850px) {
+
+    .header-links{
+        display:none;
+    }
+
+    header{
+        margin: 1.5rem 1rem;
+    }
+
+    .logo{
+        margin: 0 0 0 0rem;
+        padding: 5px;
+    }
+
+
+/* mobile menu */
+    .mobile-nav {
+        display: block;
+        cursor: pointer;
+    }
+
+    .mobile-nav i {
+        font-size: 250%; 
+    }
+    main {
+        flex-direction: column;
+    }
+
+    .items{
+        margin: 1rem;
+    }
+
+
+    /* main page */
+    .card-contaner {
+        width: 85%;
+        margin-top: -24%;
+    }
+
+    footer p {
+        font-size: 90%;
+    }
+}
