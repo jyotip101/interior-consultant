@@ -45,6 +45,7 @@
 
 - HTML
 - CSS
+- Javascript
 - [Google font](https://fonts.googleapis.com/css2?family=Londrina+Outline&family=Montserrat:wght@100&display=swap) 
 
 
